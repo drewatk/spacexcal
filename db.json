@@ -1,0 +1,60 @@
+{
+  "launches": [
+    {
+      "date": "2018-07-25T11:39:00.000Z",
+      "allDay": false,
+      "payload": "Iridium 7 (10 Satellites)",
+      "vehicle": "Falcon 9",
+      "customer": "Iridium Communications"
+    },
+    {
+      "date": "2018-08-02T05:19:00.000Z",
+      "allDay": false,
+      "payload": "Merah Putih (Telkom 4)",
+      "vehicle": "Falcon 9",
+      "customer": "Telkom (Indonesia)"
+    },
+    {
+      "date": "2018-08-18T03:35:00.000Z",
+      "allDay": false,
+      "payload": "Telstar 18V (APStar 5C)",
+      "vehicle": "Falcon 9",
+      "customer": "Telesat (Canada)"
+    },
+    {
+      "date": "2018-09-05T00:00:00.000Z",
+      "allDay": true,
+      "payload": "SAOCOM 1A",
+      "vehicle": "Falcon 9",
+      "customer": "CONAE (Argentina)"
+    },
+    {
+      "date": "2018-09-25T00:00:00.000Z",
+      "allDay": true,
+      "payload": "SSO-A (74 or less Cubesats and Microsatellites)",
+      "vehicle": "Falcon 9",
+      "customer": "Spaceflight Industries, Inc"
+    },
+    {
+      "date": "2018-11-07T00:00:00.000Z",
+      "allDay": true,
+      "payload": "RADARSAT C-1, C-2, C-3",
+      "vehicle": "Falcon 9 ♺",
+      "customer": "CSA (Canada)"
+    },
+    {
+      "date": "2018-11-29T00:00:00.000Z",
+      "allDay": true,
+      "payload": "SpX CRS-16 & GEDI, RRM3 / IDA-3",
+      "vehicle": "Falcon 9 ♺ + Dragon ♺",
+      "customer": "NASA"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "allDay": true,
+      "payload": "STP-2 (DCX, & 34 others)",
+      "vehicle": "Falcon Heavy",
+      "customer": "USAF"
+    }
+  ]
+}
